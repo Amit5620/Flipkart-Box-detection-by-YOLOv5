@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['flyer', 'mediumBox', 'smallBox']
+
+roboflow:
+  workspace: objectdetection-twbnk
+  project: flipkart-box-detection-qpoyz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/objectdetection-twbnk/flipkart-box-detection-qpoyz/dataset/1

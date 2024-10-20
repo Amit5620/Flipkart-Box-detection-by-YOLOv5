@@ -1,0 +1,15 @@
+ epoch    199.000000
+      train/box_loss      0.025931
+      train/obj_loss      0.015616
+      train/cls_loss      0.006173
+   metrics/precision      0.893040
+      metrics/recall      0.778760
+     metrics/mAP_0.5      0.832150
+metrics/mAP_0.5:0.95      0.523020
+        val/box_loss      0.034452
+        val/obj_loss      0.009477
+        val/cls_loss      0.017514
+               x/lr0      0.000199
+               x/lr1      0.000199
+               x/lr2      0.000199
+Name: 199, dtype: float64

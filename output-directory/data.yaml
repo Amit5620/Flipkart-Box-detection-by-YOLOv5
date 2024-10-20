@@ -1,0 +1,7 @@
+
+train: /kaggle/input/flipkart-box-images/Flipkart Box/images/train
+val: /kaggle/input/flipkart-box-images/Flipkart Box/images/valid
+test: /kaggle/input/flipkart-box-images/Flipkart Box/images/test
+
+nc: 3
+names: ['flyer', 'mediumBox', 'smallBox']
